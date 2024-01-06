@@ -1,10 +1,21 @@
+At the top left, there is dynamic app menu bar, which changes based on the app you have opened.
+
 Launchpad --> To find all your installed apps
 Finder --> Same as File explorer in windows --> To find al files, documents, downloads, etc..
 To change System Settings --> Go to top left --> click apple sign --> System settings
 To connect wifi, change sound volume etc.. --> Go to top right
 If not able to see full path of folders in finder --> Go to view at top --> Click show path bar
+Clicking red cross button does not close an app as it still runs in background, To close it completely --> Go to app name at top left --> Click quit app
+
 
 
 1) Cmd + option + shift + esc  -->  to close an app
 2) Cmd + space --> Spotlight Search
 3) Cmd + R --> To reveal any file in explorer
+4) Press spacebar to view any image, pdf, etc.. without actually opening it
+5) option + cmd + V --> Paste
+6) Cmd + tab --> To toggle between your opened apps
+7) Cmd + ` --> To toggle between different windows of the same app
+8) F3 (or swipe up three fingers) --> To see all opened windows
+9) In any window you can see green button at top left --> Press and hold it to tile window at left or right
+10) Cmd + Q --> To quit an app completely
