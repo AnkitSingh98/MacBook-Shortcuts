@@ -10,7 +10,7 @@
       d) pwd                     --> check if .zshenv file is present in your system, if not create it in next step
       e) touch ~/.zshenv         --> to create .zshenv file
       f) open ~/.zshenv         --> to open .zshenv file
-      g) PASTE the copied path in above steps into this file. ie write this --> Export JAVA_HOME=CopiedPath
+      g) PASTE the copied path in above steps into this file. ie write this --> export JAVA_HOME=CopiedPath
       h) cat ~/.zshenv
 
       i) echo $JAVA_HOME  --> Check if JAVA path is properly set
