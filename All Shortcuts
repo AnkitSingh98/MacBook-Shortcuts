@@ -19,3 +19,5 @@ Clicking red cross button does not close an app as it still runs in background, 
 8) F3 (or swipe up three fingers) --> To see all opened windows
 9) In any window you can see green button at top left --> Press and hold it to tile window at left or right
 10) Cmd + Q --> To quit an app completely
+11) To force quit an app in case of system hang --> Click apple btn at top left --> CLick force quit --> It is same as taskbar in windows
+  
